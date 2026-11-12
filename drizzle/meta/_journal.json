@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789695632318,
+      "tag": "0000_stale_jubilee",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789695731976,
+      "tag": "0001_burly_star_brand",
+      "breakpoints": true
+    }
+  ]
+}
